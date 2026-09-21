@@ -1,0 +1,6 @@
+{
+  "name": "Antigravity",
+  "description": "Antigravity AI coding agent and developer environment with terminal CLI, Google auth, Gemini code generation, and project management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
